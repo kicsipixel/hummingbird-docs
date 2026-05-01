@@ -16,13 +16,9 @@ The Hummingbird project provides multiple entry points for getting started.
 
 ### Using the project template
 
-Clone the starting template to your local machine:
+Run the download script and follow the instructions.
 
-    git clone https://github.com/hummingbird-project/template
-
-Run the configure script provided to create a new folder and project inside:
-
-    ./template/configure.sh MyNewProject
+    curl -L https://raw.githubusercontent.com/hummingbird-project/template/main/scripts/download.sh | bash
 
 Change into the new project directory:
 
